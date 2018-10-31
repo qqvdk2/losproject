@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="datavisian.lospredict.AppTest" time="0.008" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="datavisian.lospredict.AppTest" time="0.007" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_101\jre\bin"/>
@@ -30,7 +30,7 @@
     <property name="os.name" value="Windows 8.1"/>
     <property name="classworlds.conf" value="c:\Program Files\apache-maven-3.5.4\bin\..\bin\m2.conf"/>
     <property name="sun.jnu.encoding" value="Cp1258"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_101\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;&quot;c:\program files\apache-maven-3.5.4\bin&quot;;&quot;c:\program files\apache-maven-3.5.4\bin&quot;;C:\Program Files\ImageMagick-6.9.3-Q16;C:\app\quocvinh\product\12.1.0\dbhome_1\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MiKTeX 2.9\miktex\bin\x64\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Git\cmd;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files (x86)\sbt\bin;C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Python27;C:\Python27\Lib;C:\Python27\Scripts;C:\Program Files (x86)\GDAL;C:\Users\qqvdk2\AppData\Local\Programs\Python\Python36-32\Lib;C:\Users\qqvdk2\AppData\Local\Programs\Python\Python36-32\Scripts;C:\Users\qqvdk2\AppData\Local\Programs\Python\Python36-32;C:\Users\qqvdk2\Anaconda3;C:\Users\qqvdk2\Anaconda3\Scripts;C:\Users\qqvdk2\AppData\Local\Programs\Python\Python36-32\Scripts\;C:\Users\qqvdk2\AppData\Local\Programs\Python\Python36-32\;C:\Program Files\Java\jdk1.8.0_60\bin;C:\Users\qqvdk2\AppData\Roaming\Composer\vendor\bin;C:\Users\qqvdk2\AppData\Roaming\npm;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_101\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;&quot;c:\program files\apache-maven-3.5.4\bin&quot;;C:\Program Files\ImageMagick-6.9.3-Q16;C:\app\quocvinh\product\12.1.0\dbhome_1\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MiKTeX 2.9\miktex\bin\x64\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Git\cmd;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files (x86)\sbt\bin;C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Python27;C:\Python27\Lib;C:\Python27\Scripts;C:\Program Files (x86)\GDAL;C:\Users\qqvdk2\AppData\Local\Programs\Python\Python36-32\Lib;C:\Users\qqvdk2\AppData\Local\Programs\Python\Python36-32\Scripts;C:\Users\qqvdk2\AppData\Local\Programs\Python\Python36-32;C:\Users\qqvdk2\Anaconda3;C:\Users\qqvdk2\Anaconda3\Scripts;C:\Program Files\Java\jdk1.8.0_101\bin;C:\Program Files\Apache Software Foundation\apache-maven-3.5.4\bin;%M2%;C:\Users\qqvdk2\AppData\Local\Programs\Python\Python36-32\Scripts\;C:\Users\qqvdk2\AppData\Local\Programs\Python\Python36-32\;C:\Program Files\Java\jdk1.8.0_60\bin;C:\Program Files\MiKTeX 2.9\miktex\bin\x64\;C:\Users\qqvdk2\AppData\Roaming\Composer\vendor\bin;C:\Users\qqvdk2\AppData\Roaming\npm;C:\Program Files\Java\jdk1.8.0_101\bin;C:\Program Files\Apache Software Foundation\apache-maven-3.5.4\bin;."/>
     <property name="maven.conf" value="c:\Program Files\apache-maven-3.5.4\bin\../conf"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
@@ -67,5 +67,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="datavisian.lospredict.AppTest" name="testApp" time="0.008"/>
+  <testcase classname="datavisian.lospredict.AppTest" name="testApp" time="0.007"/>
 </testsuite>
